@@ -1,4 +1,3 @@
-## Cox Auto Test
 
 ## npm install
 
