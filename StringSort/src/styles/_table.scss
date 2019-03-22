@@ -1,0 +1,26 @@
+table {
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+
+	tr {
+		border: 1px solid #ccc;
+
+		td {
+			border: 1px solid #ccc;
+			padding: 20px;
+    		text-align: center;
+    		position: relative;
+    		a {
+    			color: #5c85ad;
+    			&:after {
+    				content: "x";
+				    position: absolute;
+				    right: 5px;
+				    top: 2px;
+				    color: #FF0000;
+    			}
+
+    		}
+		}
+	}
+}

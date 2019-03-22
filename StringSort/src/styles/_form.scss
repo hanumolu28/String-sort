@@ -1,0 +1,25 @@
+form {
+
+    width: 50%;
+    margin: 50px auto;
+
+    #strInput {
+		border-radius: 4px;
+		border-color: #737373;
+		background-color: #ffffff;
+		height: 45px;
+		padding-bottom: 30px;
+		font-size: 18px;
+		color: #555;
+		width: 300px;
+	}
+	button {
+		background-color: #007CBE;
+	    margin: 0 20px;
+	    padding: 15px 15px;
+	    border-radius: 5px;
+	    color: #fff;
+	    font-size: 15px;
+	}
+}
+
